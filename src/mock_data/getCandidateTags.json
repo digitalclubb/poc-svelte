@@ -1,0 +1,61 @@
+{
+  "candidate": {
+    "id": "A8",
+    "name": "Detail name Backend Carradinha",
+    "firstname": "Detail firstname Backend",
+    "lastname": "Detail lastname Carradinha",
+    "headline": null,
+    "image_url": null,
+    "account": {
+      "subdomain": "zoopla",
+      "name": "Zoopla"
+    },
+    "job": {
+      "shortcode": "D2BA8C06CF",
+      "title": "Engineering Lead - Backend"
+    },
+    "stage": "Phone Screen",
+    "disqualified": false,
+    "disqualified_at": null,
+    "disqualification_reason": null,
+    "hired_at": null,
+    "sourced": true,
+    "profile_url": "https://zoopla.workable.com/backend/jobs/827949/candidates/75260392",
+    "address": null,
+    "phone": null,
+    "email": "test@gmail.com",
+    "outbound_mailbox": "4f27is4fszh9@outbound.workablemail.com",
+    "domain": null,
+    "uploader_id": "a3ae4",
+    "created_at": "2019-09-20T08:40:23Z",
+    "updated_at": "2019-10-09T08:53:08Z",
+    "cover_letter": null,
+    "summary": null,
+    "education_entries": [],
+    "experience_entries": [],
+    "skills": [],
+    "answers": [],
+    "resume_url": "https://www.google.com/",
+    "social_profiles": [
+      {
+        "type": "twitter",
+        "name": "Twitter",
+        "username": "abc",
+        "url": "https://www.twitter.com/abc"
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "username": "abc",
+        "url": "http://www.github.com/abc"
+      },
+      {
+        "type": "linkedin",
+        "name": "LinkedIn",
+        "username": "in/abc",
+        "url": "http://linkedin.com/in/abc"
+      }
+    ],
+    "tags": ["pipeline", "jk", "stackoverflow", "screen", "friday_18th"]
+  }
+}

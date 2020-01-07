@@ -1,0 +1,86 @@
+{
+  "candidates": [
+    {
+      "id": "ELBE1",
+      "name": "List name ELBE1",
+      "firstname": "List firstname",
+      "lastname": "List lastname",
+      "headline": "Engineer at Google",
+      "account": {
+        "subdomain": "zoopla",
+        "name": "Zoopla"
+      },
+      "job": {
+        "shortcode": "D2BA8C06CF",
+        "title": "Engineering Lead - Backend"
+      },
+      "stage": "CV Review",
+      "disqualified": false,
+      "disqualification_reason": null,
+      "hired_at": null,
+      "sourced": false,
+      "profile_url": "https://zoopla.workable.com/backend/jobs/871408/candidates/54726081",
+      "address": "SE1 2LH",
+      "phone": "09999 878765",
+      "email": "test@gmail.com",
+      "domain": "linkedin.com",
+      "created_at": "2019-10-07T17:59:46Z",
+      "updated_at": "2019-02-05T13:07:03Z"
+    },
+    {
+      "id": "ELBE2",
+      "name": "List name ELBE2",
+      "firstname": "List firstname",
+      "lastname": "List lastname",
+      "headline": "Engineer at Google",
+      "account": {
+        "subdomain": "zoopla",
+        "name": "Zoopla"
+      },
+      "job": {
+        "shortcode": "D2BA8C06CF",
+        "title": "Engineering Lead - Backend"
+      },
+      "stage": "Phone Screen",
+      "disqualified": false,
+      "disqualification_reason": null,
+      "hired_at": null,
+      "sourced": false,
+      "profile_url": "https://zoopla.workable.com/backend/jobs/871408/candidates/54726081",
+      "address": "SE1 2LH",
+      "phone": "09999 878765",
+      "email": "test@gmail.com",
+      "domain": "linkedin.com",
+      "created_at": "2019-10-07T17:59:46Z",
+      "updated_at": "2019-02-05T13:07:03Z"
+    },
+    {
+      "id": "ELBE3",
+      "name": "List name ELBE3",
+      "firstname": "List firstname",
+      "lastname": "List lastname",
+      "headline": "Engineer at Google",
+      "account": {
+        "subdomain": "zoopla",
+        "name": "Zoopla"
+      },
+      "job": {
+        "shortcode": "D2BA8C06CF",
+        "title": "Engineering Lead - Backend"
+      },
+      "stage": "Phone Screen",
+      "disqualified": true,
+      "disqualification_reason": null,
+      "hired_at": null,
+      "sourced": false,
+      "profile_url": "https://zoopla.workable.com/backend/jobs/871408/candidates/54726081",
+      "address": "SE1 2LH",
+      "phone": "09999 878765",
+      "email": "test@gmail.com",
+      "domain": "linkedin.com",
+      "created_at": "2019-10-07T17:59:46Z",
+      "updated_at": "2019-02-05T13:07:03Z"
+    }
+  ]
+}
+

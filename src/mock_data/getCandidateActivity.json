@@ -1,0 +1,81 @@
+{
+  "activities": [
+    {
+      "id": "A4",
+      "action": "phone-screen",
+      "stage_name": "CV Review",
+      "created_at": "2019-11-14T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    },
+    {
+      "id": "A2",
+      "action": "phone-screen",
+      "stage_name": "Phone Screen",
+      "created_at": "2019-11-13T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    },
+    {
+      "id": "A1",
+      "action": "phone-screen",
+      "stage_name": "Phone Screen",
+      "created_at": "2019-11-12T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    },
+    {
+      "id": "A5",
+      "action": "phone-screen",
+      "stage_name": "Phone Screen",
+      "created_at": "2019-11-11T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    },
+    {
+      "id": "A6",
+      "action": "phone-screen",
+      "stage_name": "Phone Screen",
+      "created_at": "2019-11-10T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    },
+    {
+      "id": "A7",
+      "action": "phone-screen",
+      "stage_name": "Phone Screen",
+      "created_at": "2019-11-09T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    },
+    {
+      "id": "A8",
+      "action": "talent-partner-call",
+      "stage_name": "Talent Partner Call",
+      "created_at": "2019-11-10T10:00:00.000Z",
+      "member": {
+        "id": "7f395",
+        "name": "jarrad.kabral@zpg.co.uk"
+      },
+      "body": "Phone interview with me please"
+    }
+  ]
+}
